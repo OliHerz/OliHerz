@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OliHerz
-- 👀 I’m interested in learn Web Development
-- 🌱 I’m currently learning all the basics HTML, CSS, JS, PHP, 
-- 💞️ I’m looking to collaborate on projetcs about web development  
-- 📫 How to reach me just seach for begginers
+- 👋 Hi, I’m Oli
+- 👀 I’m interested in programming, but must and foremost learning.
+- 🌱 I’m currently learning the basics of Web Development.
+- 💞️ I’m looking to learn and collaborate on projetcs about web development.
+- 📫 If you're looking for me, look under your shoe, or up to the sky.. to infinity and beyond.
 
 <!---
 OliHerz/OliHerz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
